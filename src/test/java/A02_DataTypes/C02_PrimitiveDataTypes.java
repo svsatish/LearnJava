@@ -4,7 +4,7 @@ public class C02_PrimitiveDataTypes {
 
     public static void main(String[] args) {
 
-        // byte, char, short, int, long, float, double
+        // byte, char, short, boolean, int, long, float, double
         // default values  - 0, '\u0000', 0, 0, 0l, 0f, 0d
 
         byte b = 127;
