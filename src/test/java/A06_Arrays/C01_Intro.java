@@ -29,5 +29,12 @@ public class C01_Intro {
         // Length of the array
         int len = a.length;
         System.out.println("Length of first array is: " + len);
+
+        /* Traversing/Printing elements in an array
+
+        1. Using normal for loop - can traverse in both direction
+        2. Using enhanced for loop - can traverse only in front direction
+         */
+
     }
 }
