@@ -10,10 +10,9 @@ public class C05_InBuiltMethods {
 
         System.out.println("Length of array is: " + a.length);
         Arrays.sort(a);
-        System.out.println(a.toString());
+        System.out.println(Arrays.toString(a));
         int[] b = a.clone();
-        System.out.println(b.length);
-
+        System.out.println(Arrays.toString(b));
 
     }
 }
