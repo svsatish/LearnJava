@@ -23,7 +23,7 @@ public class C03_StringVsStringBufferVsStringBuilder {
         // StringBuilder is NOT synchronized
         // StringBuilder is faster
         StringBuilder sb2 = new StringBuilder(str);
-        sb2.append(" StringBuuilder");
+        sb2.append(" StringBuilder");
         System.out.println(sb2);
     }
 }
