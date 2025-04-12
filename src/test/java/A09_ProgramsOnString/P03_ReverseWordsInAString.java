@@ -2,7 +2,7 @@ package A09_ProgramsOnString;
 
 import java.util.Scanner;
 
-public class C03_ReverseWordsInAString {
+public class P03_ReverseWordsInAString {
 
     public static void main(String[] args) {
 
